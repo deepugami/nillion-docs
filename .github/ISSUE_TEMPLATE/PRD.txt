@@ -1,0 +1,22 @@
+PRD: Password Manager App
+
+Overview
+
+A simple and secure app for storing and retrieving passwords with ease. Use Python on the backend and JS on the frontend.
+
+Key Features
+
+A user can login to the app by connecting their MetaMask wallet
+A user can then securely store their passwords by entering the:
+service/website name
+their username
+their password
+A user can log back in with MetaMask, and get a list of service names with stored credentials with the username and password as "****". They can either copy the password without revealing it (copy icon) or choose to see it (eye icon).
+The user can log out of the app
+Design
+
+Keep the design simple, but modern.
+Task
+
+Build an app that provides the above functionality using Python for the backend and JavaScript for the frontend.
+Refer to the attached file for information on how to store and retrieve data from the 3 nodes and how to encrypt and decrypt using nilq (use nilq python library).
